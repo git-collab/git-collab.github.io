@@ -1,0 +1,40 @@
+body {
+	background-color: #1e1f21;
+	color: #d8dee9;
+/*	background-color: #eceff4;
+	color: #2e3440;*/
+/*	padding-left: 100px;
+	padding-right: 100px;*/
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+	text-align: left;
+}
+
+div {
+	text-align: center;
+	font-size: 30px;
+}
+
+br { 
+    display: block; 
+    margin-bottom: 0.3em; 
+} 
+
+a:link {
+  color: #61afef;
+  /*background-color: transparent;*/
+  /*text-decoration: none;*/
+}
+
+a:hover {
+  color: #2dc997;
+  background-color: transparent;
+  text-decoration: underline;
+}
