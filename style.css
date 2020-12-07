@@ -29,12 +29,13 @@ br {
 
 a:link {
   color: #61afef;
-  /*background-color: transparent;*/
-  /*text-decoration: none;*/
+  background-color: transparent;
+  text-decoration: none;
 }
 
 a:hover {
   color: #2dc997;
   background-color: transparent;
   text-decoration: underline;
+  font-size:150%;
 }
