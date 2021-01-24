@@ -37,3 +37,8 @@ a:hover {
   text-decoration: none;
   font-size:150%;
 }
+
+#myHeader {
+  font-size:50%;
+  padding: 40px;
+  text-align: center;
